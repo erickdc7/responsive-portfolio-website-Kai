@@ -1,0 +1,194 @@
+========== NAV ==========
+.nav__logo
+Kai
+
+.nav__link
+Home - About - Projects - Resume - Contact
+
+
+========== HOME ==========
+.home__social
+https://www.linkedin.com/
+https://github.com/bedimcode
+https://dribbble.com/
+
+* Insert the professions into the js file (HOME TYPED JS), then save.
+
+.home__subtitle
+Hi, I'm a
+
+.home__title
+Kai Marx
+
+.home__description
+Web developer and designer based in Lima, Peru, specializing 
+in creating websites for businesses. See my portfolio, which 
+includes modern websites, designs, and more.
+
+.home__buttons
+Download CV
+Projects
+
+
+========== ABOUT ==========
+.section__title
+About Me
+
+.about__description
+I am a web developer and designer specializing in creating 
+modern, functional, and visually appealing websites. I combine 
+creativity and functionality to transform ideas into intuitive 
+interfaces, balancing design, usability, and quality code.
+
+.button
+Contact Me
+
+.about__subtitle
+Skills
+
+.about__item
+HTML
+CSS
+JavaScript
+React
+Astro
+Next JS
+Laravel
+Git
+GitHub
+Figma
+
+
+========== PROJECTS ==========
+.section__title
+Projects
+
+.projects__title
+Travel Website
+Gym Website
+Coffee Website
+Business Design
+Food Design
+IA Website & Design
+
+.projects__description 
+Creation, design and development of a website for a user.
+
+.button
+View Project
+
+
+========== RESUME ==========
+.section__title
+My Resume
+
+.resume__subtitle
+Experience
+Education
+
+.resume__title .resume__info .resume__description
+Frontend Developer
+NebulaTech
+2024 - Present
+Building fast and maintainable interfaces for web applications.
+
+Web Designer
+Pixel Studio
+2020 - 2022
+Page design and visual systems focused on usability.
+
+Visual Design In Interfaces
+Bright Digital
+2018 - 2019
+Support in visual design, wireframes and improvement of user experience.
+
+B.A. in Web Development
+Atlas University
+2020 - 2024
+Focus on frontend development, backend development, and modern web architecture.
+
+Diploma In Web Design
+Nova School
+2017 - 2020
+Visual design, UX, prototyping and interface creation.
+
+Certificate in Interface Design
+Lumen Institute
+2015 - 2017
+Fundamentals of interface design and visual systems.
+
+
+========== CONTACT ==========
+.section__title
+Contact Me
+
+.contact__input placeholder
+Names
+Email
+Message
+
+.button
+Send Message
+
+.contact__message
+Message sent successfully ✅
+
+.contact__address
+kai@email.com
++123-987654321
+Lima, Perú
+Available: Mon-Fri, 9AM-6PM
+
+https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!
+https://m.me/bedimcode
+https://t.me/telegram
+
+
+========== CONTACT JS ==========
+The code for sending emails is a sample test.
+
+Create your account at https://www.emailjs.com/ 
+and follow the instructions in the video and images 
+to send emails with your account.
+
+// serviceID - templateID - #form - publicKey
+
+   // Show sent message
+      Message sent successfully ✅
+
+   // Remove message after five seconds
+
+   // Clear input fields
+
+   // Show error message
+      Message not sent (service error) ❌
+
+Subject *
+New message from {{user_name}}
+
+Content *
+Names: {{user_name}}
+
+Email: {{user_email}}
+
+Message: {{user_message}}
+
+Best wishes,
+EmailJS team
+
+
+========== FOOTER ==========
+.footer__logo
+Kai
+
+.footer__links
+Home - About - Projects
+
+.footer__social
+https://www.facebook.com/bedimcode
+https://www.instagram.com/bedimcode/
+https://twitter.com/
+https://www.youtube.com/@Bedimcode
+
+.footer__copy
+&#169; All Rights Reserved By Bedimcode
