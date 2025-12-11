@@ -215,6 +215,10 @@ img {
   color: var(--first-color);
 }
 
+.nav__link:hover::after {
+  width: 60%;
+}
+
 /* Show menu */
 
 /* Add shadow header */
