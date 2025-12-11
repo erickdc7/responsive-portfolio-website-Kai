@@ -193,6 +193,13 @@ img {
   row-gap: 1.5rem;
 }
 
+.nav__link {
+  position: relative;
+  color: var(--white-color);
+  font-weight: var(--font-medium);
+  transition: color 0.4s, width 0.4s;
+}
+
 /* Show menu */
 
 /* Add shadow header */
