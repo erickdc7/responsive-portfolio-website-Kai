@@ -155,6 +155,12 @@ img {
   align-items: center;
 }
 
+.nav__logo {
+  color: var(--white-color);
+  font-weight: var(--font-semi-bold);
+  transition: color 0.4s;
+}
+
 /* Navigation for mobile devices */
 
 /* Show menu */
