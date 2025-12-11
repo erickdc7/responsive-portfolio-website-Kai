@@ -200,6 +200,17 @@ img {
   transition: color 0.4s, width 0.4s;
 }
 
+.nav__link::after {
+  content: "";
+  width: 60%;
+  height: 2px;
+  background-color: var(--first-color);
+  position: absolute;
+  left: 0;
+  bottom: -0.5rem;
+  transition: width 0.4s;
+}
+
 /* Show menu */
 
 /* Add shadow header */
