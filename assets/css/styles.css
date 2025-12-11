@@ -211,6 +211,10 @@ img {
   transition: width 0.4s;
 }
 
+.nav__link:hover {
+  color: var(--first-color);
+}
+
 /* Show menu */
 
 /* Add shadow header */
