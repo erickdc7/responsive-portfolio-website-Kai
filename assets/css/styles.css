@@ -258,6 +258,11 @@ img {
   box-shadow: 0 8px 32px hsla(var(--hue), 80%, 48%, 0.3);
 }
 
+.home__img {
+  width: 200px;
+  filter: drop-shadow(0 4px 16px hsla(0, 0%, 0%, 0.2));
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/
