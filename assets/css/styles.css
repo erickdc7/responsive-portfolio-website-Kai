@@ -284,6 +284,11 @@ img {
   color: var(--first-color);
 }
 
+.home__data {
+  text-align: center;
+  row-gap: 1rem;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/
