@@ -235,6 +235,10 @@ img {
 /* Active link */
 
 /*=============== HOME ===============*/
+.home__container {
+  row-gap: 4rem;
+  padding-block: 2.5rem 2rem;
+}
 
 /*=============== BUTTON ===============*/
 
