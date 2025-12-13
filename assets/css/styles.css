@@ -263,6 +263,16 @@ img {
   filter: drop-shadow(0 4px 16px hsla(0, 0%, 0%, 0.2));
 }
 
+.home__social {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: -2.5rem;
+  display: grid;
+  align-content: center;
+  row-gap: 1.5rem;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/
