@@ -307,6 +307,16 @@ img {
 }
 
 /*=============== BUTTON ===============*/
+.button {
+  display: inline-flex;
+  justify-content: center;
+  background-color: var(--first-color);
+  color: var(--black-color);
+  font-weight: var(--font-medium);
+  padding: 1rem 1.5rem;
+  border-radius: 0.5rem;
+  transition: box-shadow 0.4s, color 0.4s;
+}
 
 /*=============== ABOUT ===============*/
 
