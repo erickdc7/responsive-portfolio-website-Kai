@@ -240,6 +240,11 @@ img {
   padding-block: 2.5rem 2rem;
 }
 
+.home__content {
+  position: relative;
+  justify-self: center;
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/
