@@ -322,6 +322,12 @@ img {
   box-shadow: 0 8px 24px hsla(var(--hue), 80%, 48%, 0.3);
 }
 
+.button__ghost {
+  background-color: var(--body-color);
+  color: var(--white-color);
+  border: 2px solid var(--first-color);
+}
+
 /*=============== ABOUT ===============*/
 
 /*=============== PROJECTS ===============*/
