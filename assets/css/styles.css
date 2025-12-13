@@ -328,6 +328,10 @@ img {
   border: 2px solid var(--first-color);
 }
 
+.button__ghost:hover {
+  color: var(--first-color);
+}
+
 /*=============== ABOUT ===============*/
 
 /*=============== PROJECTS ===============*/
