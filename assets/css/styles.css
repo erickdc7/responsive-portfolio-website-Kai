@@ -318,6 +318,10 @@ img {
   transition: box-shadow 0.4s, color 0.4s;
 }
 
+.button:hover {
+  box-shadow: 0 8px 24px hsla(var(--hue), 80%, 48%, 0.3);
+}
+
 /*=============== ABOUT ===============*/
 
 /*=============== PROJECTS ===============*/
