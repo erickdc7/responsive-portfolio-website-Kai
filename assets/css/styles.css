@@ -289,6 +289,10 @@ img {
   row-gap: 1rem;
 }
 
+.home__subtitle span {
+  color: var(--first-color);
+}
+
 /*=============== BUTTON ===============*/
 
 /*=============== ABOUT ===============*/
