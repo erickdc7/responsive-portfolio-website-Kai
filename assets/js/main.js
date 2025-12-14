@@ -32,6 +32,7 @@ const typedHome = new Typed('#home-typed', {
     strings: ['Web Designer', 'Freelancer', 'Designer'], // Insert professions
     typeSpeed: 80,
     backSpeed: 40,
+    backDelay: 2000,
 });
 
 /*=============== ADD SHADOW HEADER ===============*/
