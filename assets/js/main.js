@@ -28,7 +28,10 @@ const linkAction = () => {
 navLink.forEach(n => n.addEventListener('click', linkAction))
 
 /*=============== HOME TYPED JS ===============*/
-
+const typedHome = new Typed('#home-typed', {
+    strings: ['Web Designer', 'Freelancer', 'Designer'],
+    typeSpeed: 50,
+});
 
 /*=============== ADD SHADOW HEADER ===============*/
 
