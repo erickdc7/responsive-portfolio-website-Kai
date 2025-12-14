@@ -354,6 +354,11 @@ img {
   .container {
     margin-inline: 1rem;
   }
+
+  .home__image {
+    width: 200px;
+    height: 200px;
+  }
 }
 
 /* For medium devices */
