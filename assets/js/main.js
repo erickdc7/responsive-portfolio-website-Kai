@@ -33,6 +33,7 @@ const typedHome = new Typed('#home-typed', {
     typeSpeed: 80,
     backSpeed: 40,
     backDelay: 2000,
+    loop: true
 });
 
 /*=============== ADD SHADOW HEADER ===============*/
