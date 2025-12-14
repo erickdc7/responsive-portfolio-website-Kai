@@ -415,6 +415,12 @@ img {
     flex-direction: row;
     column-gap: 4rem;
   }
+
+  .home__container {
+    grid-template-columns: 400px 480px;
+    column-gap: 7rem;
+    padding-block: 8rem 3rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
