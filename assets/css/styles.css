@@ -359,6 +359,10 @@ img {
     width: 200px;
     height: 200px;
   }
+
+  .home__img {
+    width: 170px;
+  }
 }
 
 /* For medium devices */
