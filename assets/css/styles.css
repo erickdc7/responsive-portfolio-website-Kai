@@ -382,6 +382,10 @@ img {
   .home__data {
     text-align: initial;
   }
+
+  .home__buttons {
+    justify-content: initial;
+  }
 }
 
 /* For large devices */
