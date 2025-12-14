@@ -366,6 +366,12 @@ img {
 }
 
 /* For medium devices */
+@media screen and (min-width: 540px) {
+  .home__container {
+    grid-template-columns: 400px;
+    justify-content: center;
+  }
+}
 
 /* For large devices */
 @media screen and (min-width: 1150px) {
