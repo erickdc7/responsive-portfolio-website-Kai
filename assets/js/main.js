@@ -31,6 +31,7 @@ navLink.forEach(n => n.addEventListener('click', linkAction))
 const typedHome = new Typed('#home-typed', {
     strings: ['Web Designer', 'Freelancer', 'Designer'], // Insert professions
     typeSpeed: 80,
+    backSpeed: 40,
 });
 
 /*=============== ADD SHADOW HEADER ===============*/
