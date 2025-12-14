@@ -427,6 +427,10 @@ img {
     height: 400px;
     border-width: 8px;
   }
+
+  .home__img {
+    width: 340px;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
