@@ -340,6 +340,11 @@ img {
   row-gap: 4rem;
 }
 
+.about__content {
+  display: grid;
+  row-gap: 3rem;
+}
+
 /*=============== PROJECTS ===============*/
 
 /*=============== RESUME ===============*/
