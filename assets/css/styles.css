@@ -374,6 +374,17 @@ img {
   gap: 0.5rem;
 }
 
+.about__item {
+  background-color: var(--first-color);
+  padding: 0.5rem 0.75rem;
+  border-radius: 2rem;
+  color: var(--black-color);
+  font-weight: var(--font-regular);
+  border: 2px solid var(--body-color);
+  cursor: default;
+  transition: background-color 0.4s, color 0.4s, border-color 0.4s;
+}
+
 /*=============== PROJECTS ===============*/
 
 /*=============== RESUME ===============*/
