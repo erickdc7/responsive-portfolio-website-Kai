@@ -362,6 +362,11 @@ img {
   margin-bottom: 1rem;
 }
 
+.about__subtitle i {
+  font-size: 1.5rem;
+  font-weight: initial;
+}
+
 /*=============== PROJECTS ===============*/
 
 /*=============== RESUME ===============*/
