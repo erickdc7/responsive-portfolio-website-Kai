@@ -349,6 +349,10 @@ img {
   text-align: center;
 }
 
+.about__description {
+  margin-bottom: 3rem;
+}
+
 /*=============== PROJECTS ===============*/
 
 /*=============== RESUME ===============*/
