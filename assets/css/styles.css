@@ -385,6 +385,12 @@ img {
   transition: background-color 0.4s, color 0.4s, border-color 0.4s;
 }
 
+.about__item:hover {
+  background-color: var(--body-color);
+  color: var(--white-color);
+  border-color: var(--first-color);
+}
+
 /*=============== PROJECTS ===============*/
 
 /*=============== RESUME ===============*/
