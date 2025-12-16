@@ -353,6 +353,15 @@ img {
   margin-bottom: 3rem;
 }
 
+.about__subtitle {
+  display: flex;
+  align-items: center;
+  column-gap: 0.5rem;
+  font-size: var(--h3-font-size);
+  color: var(--first-color);
+  margin-bottom: 1rem;
+}
+
 /*=============== PROJECTS ===============*/
 
 /*=============== RESUME ===============*/
