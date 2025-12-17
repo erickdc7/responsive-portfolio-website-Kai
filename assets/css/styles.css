@@ -458,7 +458,8 @@ img {
     align-items: center;
   }
 
-  .home__data {
+  .home__data,
+  .about__data {
     text-align: initial;
   }
 
