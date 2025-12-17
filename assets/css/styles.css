@@ -531,6 +531,10 @@ img {
     column-gap: 6rem;
     padding-block: 5rem 3rem;
   }
+
+  .about__content {
+    row-gap: 5rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
