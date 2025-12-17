@@ -459,7 +459,8 @@ img {
   }
 
   .home__data,
-  .about__data {
+  .about__data,
+  .about__data .section__title {
     text-align: initial;
   }
 
