@@ -436,7 +436,8 @@ img {
     height: 200px;
   }
 
-  .home__img {
+  .home__img,
+  .about__img {
     width: 170px;
   }
 }
