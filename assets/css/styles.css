@@ -430,7 +430,8 @@ img {
     margin-inline: 1rem;
   }
 
-  .home__image {
+  .home__image,
+  .about__image {
     width: 200px;
     height: 200px;
   }
