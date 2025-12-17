@@ -525,6 +525,12 @@ img {
     margin-top: 3.5rem;
     column-gap: 1.5rem;
   }
+
+  .about__container {
+    grid-template-columns: 540px 400px;
+    column-gap: 6rem;
+    padding-block: 5rem 3rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
