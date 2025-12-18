@@ -449,6 +449,12 @@ img {
   font-size: var(--small-font-size);
 }
 
+.projects__data .button {
+  justify-self: center;
+  background-color: hsla(var(--hue), 8%, 8%, 0.4);
+  margin-top: 0.5rem;
+}
+
 /*=============== RESUME ===============*/
 
 /*=============== CONTACT ===============*/
