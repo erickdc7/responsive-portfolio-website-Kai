@@ -441,6 +441,10 @@ img {
   transition: opacity 0.4s;
 }
 
+.projects__title {
+  font-size: var(--h3-font-size);
+}
+
 /*=============== RESUME ===============*/
 
 /*=============== CONTACT ===============*/
