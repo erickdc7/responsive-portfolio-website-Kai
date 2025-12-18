@@ -497,6 +497,10 @@ img {
   .projects__data {
     padding-inline: 0.5rem;
   }
+
+  .projects__data .button {
+    padding: 0.5rem 0.75rem;
+  }
 }
 
 /* For medium devices */
