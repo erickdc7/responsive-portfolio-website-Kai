@@ -493,6 +493,10 @@ img {
   .about__img {
     width: 170px;
   }
+
+  .projects__data {
+    padding-inline: 0.5rem;
+  }
 }
 
 /* For medium devices */
