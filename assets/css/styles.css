@@ -529,6 +529,10 @@ img {
   .home__buttons {
     justify-content: initial;
   }
+
+  .projects__container {
+    grid-template-columns: repeat(2, 350px);
+  }
 }
 
 /* For large devices */
