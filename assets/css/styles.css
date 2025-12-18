@@ -459,6 +459,11 @@ img {
   box-shadow: 0 8px 16px hsla(var(--hue), 80%, 48%, 0.2);
 }
 
+.projects__card:hover .projects__data {
+  opacity: 1;
+  pointer-events: initial;
+}
+
 /*=============== RESUME ===============*/
 
 /*=============== CONTACT ===============*/
