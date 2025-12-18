@@ -414,6 +414,14 @@ img {
   row-gap: 2rem;
 }
 
+.projects__card {
+  position: relative;
+  border-radius: 1rem;
+  overflow: hidden;
+  box-shadow: 0 8px 16px hsla(0, 0%, 0%, 0.5);
+  transition: box-shadow 0.4s;
+}
+
 /*=============== RESUME ===============*/
 
 /*=============== CONTACT ===============*/
