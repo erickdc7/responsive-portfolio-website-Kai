@@ -445,6 +445,10 @@ img {
   font-size: var(--h3-font-size);
 }
 
+.projects__description {
+  font-size: var(--small-font-size);
+}
+
 /*=============== RESUME ===============*/
 
 /*=============== CONTACT ===============*/
