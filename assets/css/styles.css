@@ -410,6 +410,9 @@ img {
 }
 
 /*=============== PROJECTS ===============*/
+.projects__container {
+  row-gap: 2rem;
+}
 
 /*=============== RESUME ===============*/
 
