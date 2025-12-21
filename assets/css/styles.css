@@ -551,7 +551,8 @@ img {
 @media screen and (min-width: 540px) {
   .home__container,
   .about__container,
-  .projects__container {
+  .projects__container,
+  .resume__container {
     grid-template-columns: 400px;
     justify-content: center;
   }
