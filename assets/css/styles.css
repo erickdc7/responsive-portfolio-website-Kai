@@ -469,6 +469,10 @@ img {
   row-gap: 4rem;
 }
 
+.resume__content {
+  row-gap: 1rem;
+}
+
 /*=============== CONTACT ===============*/
 
 /*=============== FOOTER ===============*/
