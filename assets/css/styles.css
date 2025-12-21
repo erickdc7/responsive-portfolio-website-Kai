@@ -490,6 +490,11 @@ img {
   row-gap: 2rem;
 }
 
+.resume__data {
+  display: grid;
+  row-gap: 0.5rem;
+}
+
 /*=============== CONTACT ===============*/
 
 /*=============== FOOTER ===============*/
