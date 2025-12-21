@@ -683,6 +683,10 @@ img {
     grid-template-columns: repeat(2, 465px);
     column-gap: 7rem;
   }
+
+  .resume__content {
+    row-gap: 1.5rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
