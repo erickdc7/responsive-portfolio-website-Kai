@@ -681,6 +681,7 @@ img {
 
   .resume__container {
     grid-template-columns: repeat(2, 465px);
+    column-gap: 7rem;
   }
 }
 
