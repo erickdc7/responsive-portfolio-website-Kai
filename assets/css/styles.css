@@ -481,6 +481,11 @@ img {
   color: var(--first-color);
 }
 
+.resume__subtitle i {
+  font-size: 1.5rem;
+  font-weight: initial;
+}
+
 /*=============== CONTACT ===============*/
 
 /*=============== FOOTER ===============*/
