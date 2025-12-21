@@ -499,6 +499,13 @@ img {
   font-size: var(--h3-font-size);
 }
 
+.resume__info {
+  display: flex;
+  column-gap: 1.5rem;
+  font-size: var(--small-font-size);
+  color: var(--gray-color);
+}
+
 /*=============== CONTACT ===============*/
 
 /*=============== FOOTER ===============*/
