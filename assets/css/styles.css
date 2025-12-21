@@ -687,6 +687,10 @@ img {
   .resume__content {
     row-gap: 1.5rem;
   }
+
+  .resume__list {
+    row-gap: 3rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
