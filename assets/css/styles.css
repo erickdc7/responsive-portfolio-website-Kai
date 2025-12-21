@@ -678,6 +678,10 @@ img {
   .resume {
     padding-block: 8rem 4rem;
   }
+
+  .resume__container {
+    grid-template-columns: repeat(2, 465px);
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
