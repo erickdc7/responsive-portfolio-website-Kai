@@ -495,6 +495,10 @@ img {
   row-gap: 0.5rem;
 }
 
+.resume__title {
+  font-size: var(--h3-font-size);
+}
+
 /*=============== CONTACT ===============*/
 
 /*=============== FOOTER ===============*/
