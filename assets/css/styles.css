@@ -486,6 +486,10 @@ img {
   font-weight: initial;
 }
 
+.resume__list {
+  row-gap: 2rem;
+}
+
 /*=============== CONTACT ===============*/
 
 /*=============== FOOTER ===============*/
