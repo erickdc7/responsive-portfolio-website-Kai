@@ -575,7 +575,8 @@ img {
     justify-content: initial;
   }
 
-  .projects__container {
+  .projects__container,
+  .resume__container {
     grid-template-columns: repeat(2, 350px);
   }
 }
