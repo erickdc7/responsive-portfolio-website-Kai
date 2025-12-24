@@ -570,6 +570,11 @@ img {
   font-style: initial;
 }
 
+.contact__address i {
+  font-size: 1.5rem;
+  color: var(--first-color);
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
