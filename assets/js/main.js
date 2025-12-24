@@ -76,6 +76,7 @@ const sendEmail = (e) => {
         contactForm.reset()
     }, () => {
         // Show error message
+        contactMessage.textContent = 'Message not sent (service error)'
     })
 }
 
