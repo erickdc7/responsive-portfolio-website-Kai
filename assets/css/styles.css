@@ -536,6 +536,10 @@ img {
   transition: color 0.4s;
 }
 
+.contact__input:focus::placeholder {
+  color: var(--first-color);
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
