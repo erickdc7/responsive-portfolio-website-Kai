@@ -520,6 +520,17 @@ img {
   row-gap: 1rem;
 }
 
+.contact__input {
+  width: 100%;
+  background: var(--body-color);
+  color: var(--white-color);
+  border: 2px solid var(--first-color);
+  outline: none;
+  padding: 1.25rem 1rem;
+  border-radius: 0.5rem;
+  font-weight: var(--font-medium);
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
