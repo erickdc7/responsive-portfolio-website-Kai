@@ -61,6 +61,8 @@ const sendEmail = (e) => {
     and follow the instructions in the video and images 
     to send emails with your account.
     */
+
+    // serviceID - templateID - #form - publicKey
 }
 
 contactForm.addEventListener('submit', sendEmail)
