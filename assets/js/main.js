@@ -71,6 +71,8 @@ const sendEmail = (e) => {
         setTimeout(() => {
             contactMessage.textContent = ""
         }, 5000)
+
+        // Clear input fields
     })
 }
 
