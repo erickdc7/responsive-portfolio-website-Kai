@@ -48,7 +48,8 @@ const shadowHeader = () => {
 window.addEventListener('scroll', shadowHeader)
 
 /*=============== CONTACT EMAIL JS ===============*/
-const contactForm = document.getElementById('contact-form')
+const contactForm = document.getElementById('contact-form'),
+    contactMessage = document.getElementById('contact-message')
 
 /*=============== SHOW SCROLL UP ===============*/
 
