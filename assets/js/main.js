@@ -51,11 +51,11 @@ window.addEventListener('scroll', shadowHeader)
 const contactForm = document.getElementById('contact-form'),
     contactMessage = document.getElementById('contact-message')
 
-const sendEmail = (e)=>{
-
+const sendEmail = (e) => {
+    e.preventDefault()
 }
 
-contactForm.addEventListener('submit',sendEmail)
+contactForm.addEventListener('submit', sendEmail)
 
 /*=============== SHOW SCROLL UP ===============*/
 
