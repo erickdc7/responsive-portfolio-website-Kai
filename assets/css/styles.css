@@ -553,6 +553,12 @@ img {
   cursor: pointer;
 }
 
+.contact__message {
+  position: absolute;
+  bottom: -2rem;
+  font-size: var(--small-font-size);
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
