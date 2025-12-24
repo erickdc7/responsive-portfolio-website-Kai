@@ -51,6 +51,10 @@ window.addEventListener('scroll', shadowHeader)
 const contactForm = document.getElementById('contact-form'),
     contactMessage = document.getElementById('contact-message')
 
+const sendEmail = (e)=>{
+    
+}
+
 /*=============== SHOW SCROLL UP ===============*/
 
 
