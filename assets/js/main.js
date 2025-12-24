@@ -53,6 +53,14 @@ const contactForm = document.getElementById('contact-form'),
 
 const sendEmail = (e) => {
     e.preventDefault()
+
+    /* 
+    The code for sending emails is a sample test.
+
+    Create your account at https://www.emailjs.com/ 
+    and follow the instructions in the video and images 
+    to send emails with your account.
+    */
 }
 
 contactForm.addEventListener('submit', sendEmail)
