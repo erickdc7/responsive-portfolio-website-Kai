@@ -540,6 +540,10 @@ img {
   color: var(--first-color);
 }
 
+.contact__input:autofill {
+  transition: background-color 6000s, color 6000s;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
