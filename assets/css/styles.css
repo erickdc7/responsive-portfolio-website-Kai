@@ -549,6 +549,10 @@ img {
   resize: none;
 }
 
+.contact__form .button {
+  cursor: pointer;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
