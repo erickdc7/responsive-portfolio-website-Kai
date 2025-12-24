@@ -802,6 +802,10 @@ img {
     justify-self: center;
     margin-top: 1rem;
   }
+
+  .contact__area {
+    height: 14rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
