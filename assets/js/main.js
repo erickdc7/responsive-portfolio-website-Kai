@@ -65,7 +65,7 @@ const sendEmail = (e) => {
     // serviceID - templateID - #form - publicKey
     emailjs.sendForm('', '', '', '').then(()=>{
         // Show sent message
-        
+        contactMessage.textContent='Message sent successfully ✅'
     })
 }
 
