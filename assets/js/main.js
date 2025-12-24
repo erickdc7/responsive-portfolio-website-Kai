@@ -63,6 +63,7 @@ const sendEmail = (e) => {
     */
 
     // serviceID - templateID - #form - publicKey
+    emailjs.sendForm('', '', '', '')
 }
 
 contactForm.addEventListener('submit', sendEmail)
