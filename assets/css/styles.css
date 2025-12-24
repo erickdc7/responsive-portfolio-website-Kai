@@ -784,6 +784,11 @@ img {
   .contact {
     padding-block: 8rem 4rem;
   }
+
+  .contact__container {
+    grid-template-columns: 310px 450px;
+    column-gap: 10rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
