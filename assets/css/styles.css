@@ -660,6 +660,10 @@ img {
   .contact__container {
     grid-template-columns: repeat(2, 350px);
   }
+
+  .contact__content {
+    align-content: flex-start;
+  }
 }
 
 /* For large devices */
