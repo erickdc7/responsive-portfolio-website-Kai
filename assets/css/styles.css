@@ -664,6 +664,10 @@ img {
   .contact__content {
     align-content: flex-start;
   }
+
+  .contact__form {
+    order: 1;
+  }
 }
 
 /* For large devices */
