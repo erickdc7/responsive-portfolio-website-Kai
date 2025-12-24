@@ -544,6 +544,11 @@ img {
   transition: background-color 6000s, color 6000s;
 }
 
+.contact__area {
+  height: 10rem;
+  resize: none;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
