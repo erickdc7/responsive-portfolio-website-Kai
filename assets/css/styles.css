@@ -586,6 +586,11 @@ img {
   transition: transform 0.4s, color 0.4s;
 }
 
+.contact__link:hover {
+  transform: translateY(-0.25rem);
+  color: var(--first-color);
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
