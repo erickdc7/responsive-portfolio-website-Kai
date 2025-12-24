@@ -69,7 +69,7 @@ const sendEmail = (e) => {
 
         // Remove message after five seconds
         setTimeout(()=>{
-            
+            contactMessage.textContent=""
         })
     })
 }
