@@ -63,9 +63,11 @@ const sendEmail = (e) => {
     */
 
     // serviceID - templateID - #form - publicKey
-    emailjs.sendForm('', '', '', '').then(()=>{
+    emailjs.sendForm('', '', '', '').then(() => {
         // Show sent message
-        contactMessage.textContent='Message sent successfully ✅'
+        contactMessage.textContent = 'Message sent successfully ✅'
+
+        // Remove message after five seconds
     })
 }
 
