@@ -74,8 +74,8 @@ const sendEmail = (e) => {
 
         // Clear input fields
         contactForm.reset()
-    }, ()=>{
-        
+    }, () => {
+        // Show error message
     })
 }
 
