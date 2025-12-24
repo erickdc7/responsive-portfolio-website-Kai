@@ -68,9 +68,9 @@ const sendEmail = (e) => {
         contactMessage.textContent = 'Message sent successfully ✅'
 
         // Remove message after five seconds
-        setTimeout(()=>{
-            contactMessage.textContent=""
-        })
+        setTimeout(() => {
+            contactMessage.textContent = ""
+        }, 5000)
     })
 }
 
