@@ -55,7 +55,7 @@ const sendEmail = (e)=>{
 
 }
 
-contactForm.addEventListener('submit')
+contactForm.addEventListener('submit',sendEmail)
 
 /*=============== SHOW SCROLL UP ===============*/
 
