@@ -531,6 +531,11 @@ img {
   font-weight: var(--font-medium);
 }
 
+.contact__input::placeholder {
+  color: var(--gray-color);
+  transition: color 0.4s;
+}
+
 /*=============== FOOTER ===============*/
 
 /*=============== SCROLL BAR ===============*/
