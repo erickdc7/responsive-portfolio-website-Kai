@@ -606,6 +606,15 @@ img {
   justify-content: center;
 }
 
+.footer__logo {
+  color: var(--white-color);
+  font-size: var(--h1-font-size);
+  font-weight: var(--font-semi-bold);
+  justify-self: center;
+  margin-bottom: 1rem;
+  transition: color 0.4s;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
