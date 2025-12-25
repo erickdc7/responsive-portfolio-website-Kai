@@ -596,6 +596,10 @@ img {
   padding-block: 5rem 2rem;
 }
 
+.footer__container {
+  row-gap: 2rem;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
