@@ -600,6 +600,12 @@ img {
   row-gap: 2rem;
 }
 
+.footer__links,
+.footer__social {
+  display: flex;
+  justify-content: center;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
