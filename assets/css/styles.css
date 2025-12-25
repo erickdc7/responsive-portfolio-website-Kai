@@ -615,6 +615,10 @@ img {
   transition: color 0.4s;
 }
 
+.footer__logo:hover {
+  color: var(--first-color);
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
