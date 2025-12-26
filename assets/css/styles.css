@@ -921,6 +921,10 @@ img {
   .footer__social {
     justify-self: flex-end;
   }
+
+  .scrollup {
+    right: 3rem;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
