@@ -623,6 +623,11 @@ img {
   column-gap: 2rem;
 }
 
+.footer__link {
+  color: var(--white-color);
+  transition: color 0.4s;
+}
+
 /*=============== SCROLL BAR ===============*/
 
 /*=============== SCROLL UP ===============*/
