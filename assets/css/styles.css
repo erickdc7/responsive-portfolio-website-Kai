@@ -867,6 +867,11 @@ img {
   .contact__area {
     height: 14rem;
   }
+
+  .footer__container {
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+  }
 }
 
 /* For 2K resolutions (2048 x 1152, 2048 x 1536) */
