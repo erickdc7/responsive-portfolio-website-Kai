@@ -661,6 +661,11 @@ img {
   border-radius: 0.5rem;
 }
 
+::-webkit-scrollbar-thumb {
+  background-color: hsl(0, 0%, 25%);
+  border-radius: 0.5rem;
+}
+
 /*=============== SCROLL UP ===============*/
 
 /* Show Scroll Up */
