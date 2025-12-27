@@ -122,7 +122,7 @@ const sr = ScrollReveal({
 })
 
 sr.reveal(`.home__content, .resume__content:nth-child(1)`)
-sr.reveal(`.home__data`, { delay: 300, origin: 'bottom' })
+sr.reveal(`.home__data, .resume__content:nth-child(2)`, { delay: 300, origin: 'bottom' })
 
 sr.reveal(`.about__content`, { origin: 'bottom' })
 sr.reveal(`.about__image`, { delay: 300 })
