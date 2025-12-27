@@ -125,6 +125,6 @@ sr.reveal(`.home__content, .resume__content:nth-child(1)`)
 sr.reveal(`.home__data, .resume__content:nth-child(2)`, { delay: 300, origin: 'bottom' })
 
 sr.reveal(`.about__content, .contact__content`, { origin: 'bottom' })
-sr.reveal(`.about__image`, { delay: 300 })
+sr.reveal(`.about__image, .contact__form`, { delay: 300 })
 
 sr.reveal(`.projects__card`, { interval: 100 })
