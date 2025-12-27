@@ -126,3 +126,5 @@ sr.reveal(`.home__data`, { delay: 300, origin: 'bottom' })
 
 sr.reveal(`.about__content`, { origin: 'bottom' })
 sr.reveal(`.about__image`, { delay: 300 })
+
+sr.reveal(`.projects__card`, { interval: 100 })
